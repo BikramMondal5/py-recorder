@@ -1,4 +1,4 @@
-# Screen Recorder
+# py-recorder
 
 This Python script captures and records the screen of your device in real-time, saving the output as a video file in `.avi` format.
 
@@ -51,9 +51,5 @@ pip install pyautogui numpy opencv-python
    
    Feel free to fork this repository, raise issues, or submit pull requests to add features or improve the design.
    
-## License
-   
-   This project is licensed under the `MIT License`.
-
 
 
