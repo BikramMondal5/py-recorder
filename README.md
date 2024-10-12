@@ -47,3 +47,13 @@ pip install pyautogui numpy opencv-python
 
 - **opencv (cv2)**: Responsible for saving the screenshots as frames in a video file.
 
+## Contribution
+   
+   Feel free to fork this repository, raise issues, or submit pull requests to add features or improve the design.
+   
+## License
+   
+   This project is licensed under the `MIT License`.
+
+
+
